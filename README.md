@@ -6,4 +6,4 @@ _F3c_ supporting dynamic terminators, HERE-docs, is difficult to implement a hig
 
 ## TODO
 
-- Move the hard coded color theme to be dynamically set by the user in the plugin spec.
+Move the hard coded color theme to be dynamically set by the user in the plugin spec.
